@@ -1,0 +1,15 @@
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\bin\Debug\TSI Schedule.exe.config
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\bin\Debug\TSI Schedule.exe
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\bin\Debug\TSI Schedule.pdb
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.Form1.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.Properties.Resources.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI Schedule.csproj.GenerateResource.Cache
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI Schedule.csproj.CoreCompileInputs.cache
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI Schedule.exe
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI Schedule.pdb
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.MyLessons.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.SettingsUC.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.NoInternet.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI_Schedule.ContactsUI.resources
+C:\Users\nekit\source\repos\TSI Schedule\TSI Schedule\obj\Debug\TSI Schedule.csprojResolveAssemblyReference.cache
